@@ -1,5 +1,5 @@
 ## First create a virtual enviroment
-Run on your terminal
+Run in your terminal
 ```
 python -3 -m venv venv
 ```
